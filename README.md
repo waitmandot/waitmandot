@@ -5,7 +5,11 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/cauewaitman)
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5517991940176)
 
-![Waitman GitHub stats](https://github-readme-stats.vercel.app/api?username=waitmandot&show_icons=true&theme=transparent)
+
+![Waitman GitHub stats](https://github-readme-stats.vercel.app/api?username=waitmandot&show_icons=true&theme=transparent) 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![gif](https://miro.medium.com/v2/resize:fit:320/1*YRgDadOU38KXwVeOcnGTvw.gif)
+
 
 ## Tecnologias que eu uso no meu dia
 
