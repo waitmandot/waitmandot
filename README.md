@@ -7,7 +7,7 @@
 
 
 ![Waitman GitHub stats](https://github-readme-stats.vercel.app/api?username=waitmandot&show_icons=true&theme=transparent) 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;
 ![gif](https://miro.medium.com/v2/resize:fit:320/1*YRgDadOU38KXwVeOcnGTvw.gif)
 
 
