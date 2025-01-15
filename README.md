@@ -4,7 +4,7 @@
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/waitmandot)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/cauewaitman)
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5517991940176)
-[![HF](https://huggingface.co/datasets/huggingface/badges/resolve/main/follow-me-on-HF-lg.svg)](https://huggingface.co/waitmandot)
+[![HF](https://huggingface.co/datasets/huggingface/badges/resolve/main/follow-me-on-HF-md-dark.svg)](https://huggingface.co/waitmandot)
 
 ![Waitman GitHub stats](https://github-readme-stats.vercel.app/api?username=waitmandot&show_icons=true&theme=transparent) 
 &nbsp;&nbsp;
